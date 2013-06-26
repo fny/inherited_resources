@@ -2,8 +2,8 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem 'rails', '~> 4.0.0.beta1'
-gem 'responders', :github => 'plataformatec/responders'
-gem 'has_scope', :github => 'plataformatec/has_scope'
+gem 'rails', '~> 4.0.0'
+gem 'responders', '~> 1.0.0.rc'
+gem 'has_scope', '~> 0.6.0.rc'
 gem 'mocha', '~> 0.13.2'
 gem 'turn', '~> 0.9.6'
